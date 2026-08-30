@@ -1,0 +1,20 @@
+# Ignore Excel files
+*.xlsx
+*.xls
+*.csv
+
+# Ignore Browser user data & cache created by crawler
+user_data/
+
+# Ignore Python virtual environment & cache
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# OS / IDE temp files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
